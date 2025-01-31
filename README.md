@@ -1,2 +1,2 @@
-# MutlakKareAlma
-"Mutlak Kare Alma" adlı proje görevi için oluşturulmuştur.
+# Mutlak Kare Alma
+  - "Mutlak Kare Alma" adlı proje görevi için oluşturulmuştur.
